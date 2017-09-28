@@ -1,0 +1,8 @@
+POST /upload.php HTTP/1.1
+[...]
+
+-----------------------------61976307106222954730277221
+Content-Disposition: form-data; name="file"; filename="dog.png"
+Content-Type: image/png
+
+REAL_DOG_IMAGE_CONTENT

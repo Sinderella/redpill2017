@@ -1,0 +1,8 @@
+$ curl https://good.site/?r=@evil.site -v
+> GET /?r=@evil.site HTTP/1.1
+> Host: good.site
+> [...]
+>
+< HTTP/1.1 302 Found
+< Location: http://good.site@evil.site
+< [...]

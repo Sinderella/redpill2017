@@ -1,0 +1,3 @@
+ftp://cnn.example.com&story=breaking_news@10.0.0.1/top_story.htm
+
+ref: https://tools.ietf.org/html/rfc3986#section-7.6
