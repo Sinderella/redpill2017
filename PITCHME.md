@@ -134,6 +134,8 @@ moral of the story
 
 <strong>`don't try to blindly throw thousands of payloads! do some experiments, observations, and try to understand what's really going on`</strong>
 
+Note: summary
+
 ---
 
 #### standards are good (1)
@@ -196,11 +198,13 @@ moral of the story
 
 yes, hire a professional :P
 
+Note: summary
+
 ---
 
 #### a bug or a feature (1)
 
-email text injection occurs when there is no input sanitisation/validation.
+email html injection occurs when there is no input sanitisation/validation.
 
 +++
 
@@ -278,6 +282,8 @@ hacker: watch this!
 moral of the story
 
 <strong>`sanitise and validate user input, and properly encode them where appropriate`</strong>
+
+Note: summary
 
 ---
 
