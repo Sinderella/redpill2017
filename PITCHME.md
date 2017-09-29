@@ -219,7 +219,7 @@ email html injection occurs when there is no input sanitisation/validation.
 #### a bug or a feature (3)
 
 <div align='center'>
-![image_url](assets/images/register_not_legit_poc.png)
+![image_url](assets/images/register_legit_poc.png)
 </div>
 
 +++
@@ -235,7 +235,7 @@ email html injection occurs when there is no input sanitisation/validation.
 #### a bug or a feature (5)
 
 <div align='center'>
-![image_url](assets/images/register_legit_poc.png)
+![image_url](assets/images/register_not_legit_poc.png)
 </div>
 
 
