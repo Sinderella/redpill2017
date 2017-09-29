@@ -12,6 +12,7 @@ Thanat Sirithawornsant
   - 2 years in University of Glasgow (Scotland)
 - has ~1 year working professionally
 - based in Oxford, UK
+- CRT, OSCP, OSCE
 
 Note: started reading code since 9 yo
 
