@@ -1,3 +1,3 @@
 HTTP/1.1 302 Found
-Location: user:pass@evil.site
+Location: http://user:pass@evil.site
 [...]
